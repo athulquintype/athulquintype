@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, I'm Athul Raja 
+**Data Analyst at [Quintype Technologies, Bangalore](https://www.quintype.com).**
 
-<!--
-**athulquintype/athulquintype** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:mortar_board: MCA Graduate from [Christ University](https://christuniversity.in/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:desktop_computer: Tools 
+1. Google Analytics
+2. Metabase
+3. Apache Superset
+
+### Contact me
+[Linkedin](ttps://raw.githubusercontent.com/badges/shields/refs/heads/master/README.md)  
+:envelope: athul@quintype.com
+
+
+
+
+
+
+
+
